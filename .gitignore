@@ -1,0 +1,6 @@
+yarn.lock
+generated
+prisma.yml
+
+.DS_Store
+thumbs.db
