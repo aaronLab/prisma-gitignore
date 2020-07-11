@@ -1,6 +1,11 @@
-yarn.lock
+# prisma
 generated
 prisma.yml
 
+# package
+yarn.lock
+package-lock.json
+
+# cache files
 .DS_Store
 thumbs.db
